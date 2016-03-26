@@ -13,8 +13,8 @@
 
     Version: 0.1.0
 
-    A Wishbone output module to submit event data to a UDP socket.
-    --------------------------------------------------------------
+    Submit event data to an UDP socket.
+    -----------------------------------
 
 
         Writes data to an UDP socket.
