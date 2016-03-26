@@ -29,7 +29,7 @@ from gevent import socket
 
 class UDPOut(Actor):
 
-    '''**A Wishbone output module to submit event data to a UDP socket.**
+    '''**Submit event data to an UDP socket.**
 
     Writes data to an UDP socket.
 
