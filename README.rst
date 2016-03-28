@@ -1,3 +1,5 @@
+::
+
               __       __    __
     .--.--.--|__.-----|  |--|  |--.-----.-----.-----.
     |  |  |  |  |__ --|     |  _  |  _  |     |  -__|
@@ -11,7 +13,7 @@
     wishbone.output.udp
     ===================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Submit event data to an UDP socket.
     -----------------------------------
@@ -42,5 +44,3 @@
 
             - inbox
                |  Incoming events submitted to the outside.
-
-
